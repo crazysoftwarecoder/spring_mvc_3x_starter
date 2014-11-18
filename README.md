@@ -1,0 +1,1 @@
+A starter project for spring mvc 3.x
